@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="modelodedatos" id="9617013F-3B4F-A21E-5D8A-F5603F8DFD4B" version="3.5">
+<createdBy>Su Helen Schmidt</createdBy>
+<createdTime>2024-11-14 13:20:08 UTC</createdTime>
+<ownerDesignName>modelodedatos</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>9617013F-3B4F-A21E-5D8A-F5603F8DFD4B</designId>
+</OSDM_Design>
